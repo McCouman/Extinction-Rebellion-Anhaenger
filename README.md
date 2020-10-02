@@ -3,9 +3,6 @@
 
 Inofizeller "Extinction Rebellion" Schlüsselanhänger als 3D Druck by Michael McCouman Jr. (Version: 1.0.0).
 
-<img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/Screenshot.png"/>
-
-Beispiel Druck:
 <img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/DruckER.jpg"/>
 
 ## 3D Objekte
@@ -13,6 +10,8 @@ Beispiel Druck:
 Die 3D-Modelle sind Pressungen und können geändert oder angepasst werden:
 - ExtinctionRebellion1.stl (Zeichen geht nach Innen)
 - ExtinctionRebellion2.stl (Zeichen geht nach Außen)
+
+<img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/Screenshot.png"/>
 
 ## 3D Print gCode
 
