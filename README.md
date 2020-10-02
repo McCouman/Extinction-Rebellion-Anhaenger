@@ -5,9 +5,9 @@ ExtinctionRebellion Schlüssel-Anhänger als 3D-Druck by Michael McCouman Jr. (V
 
 ## 3D Objekte
 
-Die 3D-Modelle sind:
-- ExtinctionRebellion1.stl (Zeichen geht nach innen)
-- ExtinctionRebellion2.stl (Zeichen geht nach außen)
+Die 3D-Modelle sind Pressungen und können geändert oder angepasst werden:
+- ExtinctionRebellion1.stl (Zeichen geht nach Innen)
+- ExtinctionRebellion2.stl (Zeichen geht nach Außen)
 
 ## 3D Print gCode
 
