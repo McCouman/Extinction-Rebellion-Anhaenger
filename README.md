@@ -7,6 +7,8 @@ Nutze am besten PLA - dies steht für "polylactic acid" und wird auch gerne als 
 
 <img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/DruckER.jpg"/>
 
+Finde die Materialien auch auf [MakerBot Thingiverse](https://www.thingiverse.com/thing:4696877/files).
+
 ## 3D Objekte
 
 Die 3D-Modelle sind Pressungen und können geändert oder angepasst werden:
