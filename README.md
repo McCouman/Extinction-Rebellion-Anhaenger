@@ -13,7 +13,7 @@ Die 3D-Modelle sind Pressungen und können geändert oder angepasst werden:
 - ExtinctionRebellion3.stl (Annäher: nur Sanduhr)
 - ExtinctionRebellion4.stl (Annäher: Sanduhr mit Schrift)
 
-<img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/Screenshot.png"/>
+<img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/ScreenshotV2.png"/>
 
 ## 3D Print gCode
 
