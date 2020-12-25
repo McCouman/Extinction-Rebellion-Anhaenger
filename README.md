@@ -3,7 +3,7 @@
 
 **Inoffizielle "Extinction Rebellion" Sanduhr als Schlüsselanhänger und Annäher im 3D-Druck by Michael McCouman Jr. (Version: 2.0.0).**
 
-Nutze am besten PLA - dies steht für "polylactic acid" und wird auch gerne als "Polymilchsäure" genannt. Es besteht aus nachwachsenden und natürlichen Rohstoffen wie beispielsweise Mais und gehört als synthetisches Polymer zu den Polyestern. Seine Stärke (Glucose) wird aus Pflanzen extrahiert und durch Zugabe von Enzymen in Dextrose umgewandelt. Diese wird durch Mikroorganismen in der Milchsäure fermentiert, welche daraus den Polylactid erzeugen. Mittels Polymerisation können so langkettige Molekülketten (Makromoleküle) hergestellt werden die so, den Erdöl basierten ähneln.
+Nutze am besten PLA - dies steht für "polylactic acid" und wird auch gerne als "Polymilchsäure" genannt. Es besteht aus nachwachsenden und natürlichen Rohstoffen wie beispielsweise Mais und gehört als synthetisches Polymer zu den Polyestern. Seine Stärke (Glucose) wird aus Pflanzen extrahiert und durch Zugabe von Enzymen in Dextrose umgewandelt. Diese wird durch Mikroorganismen in der Milchsäure fermentiert, welche daraus den Polylactid erzeugen. Mittels Polymerisation können so langkettige Molekülketten (Makromoleküle) hergestellt werden die so den Erdölbasierten ähneln.
 
 <img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/DruckER.jpg"/>
 
