@@ -10,6 +10,8 @@ Inofizeller "Extinction Rebellion" Schlüsselanhänger als 3D Druck by Michael M
 Die 3D-Modelle sind Pressungen und können geändert oder angepasst werden:
 - ExtinctionRebellion1.stl (Zeichen geht nach Innen)
 - ExtinctionRebellion2.stl (Zeichen geht nach Außen)
+- ExtinctionRebellion3.stl (Annäher: nur Sanduhr)
+- ExtinctionRebellion4.stl (Annäher: Sanduhr mit Schrift)
 
 <img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/Screenshot.png"/>
 
