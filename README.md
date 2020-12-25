@@ -1,9 +1,13 @@
 # ExtinctionRebellion
 <img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/er.png"/>
 
-Inofizeller "Extinction Rebellion" Schlüsselanhänger als 3D Druck by Michael McCouman Jr. (Version: 1.0.0).
+**Inoffizielle "Extinction Rebellion" Sanduhr als Schlüsselanhänger und Annäher im 3D-Druck by Michael McCouman Jr. (Version: 2.0.0).**
+
+Nutze am besten PLA - dies steht für "polylactic acid" und wird auch gerne als "Polymilchsäure" genannt. Es besteht aus nachwachsenden und natürlichen Rohstoffen wie beispielsweise Mais und gehört als synthetisches Polymer zu den Polyestern. Seine Stärke (Glucose) wird aus Pflanzen extrahiert und durch Zugabe von Enzymen in Dextrose umgewandelt. Diese wird durch Mikroorganismen in der Milchsäure fermentiert, welche daraus den Polylactid erzeugen. Mittels Polymerisation können so langkettige Molekülketten (Makromoleküle) hergestellt werden die so den Erdölbasierten ähneln.
 
 <img src="https://raw.githubusercontent.com/McCouman/ExtinctionRebellion/master/DruckER.jpg"/>
+
+Finde die Materialien auch auf [MakerBot Thingiverse](https://www.thingiverse.com/thing:4696877/files).
 
 ## 3D Objekte
 
@@ -17,9 +21,11 @@ Die 3D-Modelle sind Pressungen und können geändert oder angepasst werden:
 
 ## 3D Print gCode
 
-Lade Dir den gCode für den 3D Printer "Ender3 Desktop" herunter oder erstelle Dir einen eigenen gCode mit den Modellen.
+Lade Dir den gCode für den 3D Printer "Ender2 Desktop" herunter oder erstelle Dir einen eigenen gCode mit den Modellen.
 - <a href="https://github.com/McCouman/ExtinctionRebellion/raw/master/PI3_ExtinctionRebellion1.gcode">PI3_ExtinctionRebellion1.gcode</a>
 - <a href="https://github.com/McCouman/ExtinctionRebellion/raw/master/PI3_ExtinctionRebellion2.gcode">PI3_ExtinctionRebellion2.gcode</a>
+- <a href="https://github.com/McCouman/ExtinctionRebellion/raw/master/PI3_ExtinctionRebellion3.gcode">PI3_ExtinctionRebellion3.gcode</a>
+- <a href="https://github.com/McCouman/ExtinctionRebellion/raw/master/PI3_ExtinctionRebellion4.gcode">PI3_ExtinctionRebellion4.gcode</a>
 
 ## LIZENZ
 
