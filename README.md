@@ -17,9 +17,11 @@ Die 3D-Modelle sind Pressungen und können geändert oder angepasst werden:
 
 ## 3D Print gCode
 
-Lade Dir den gCode für den 3D Printer "Ender3 Desktop" herunter oder erstelle Dir einen eigenen gCode mit den Modellen.
+Lade Dir den gCode für den 3D Printer "Ender2 Desktop" herunter oder erstelle Dir einen eigenen gCode mit den Modellen.
 - <a href="https://github.com/McCouman/ExtinctionRebellion/raw/master/PI3_ExtinctionRebellion1.gcode">PI3_ExtinctionRebellion1.gcode</a>
 - <a href="https://github.com/McCouman/ExtinctionRebellion/raw/master/PI3_ExtinctionRebellion2.gcode">PI3_ExtinctionRebellion2.gcode</a>
+- <a href="https://github.com/McCouman/ExtinctionRebellion/raw/master/PI3_ExtinctionRebellion3.gcode">PI3_ExtinctionRebellion3.gcode</a>
+- <a href="https://github.com/McCouman/ExtinctionRebellion/raw/master/PI3_ExtinctionRebellion4.gcode">PI3_ExtinctionRebellion4.gcode</a>
 
 ## LIZENZ
 
